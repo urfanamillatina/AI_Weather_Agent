@@ -10,9 +10,12 @@
     <img src="https://img.shields.io/badge/API-Twilio-F22F46?logo=twilio&logoColor=white" alt="Twilio">
 </p>
 
+
 <p align="center">
   <a href="https://youtu.be/BTNuEiHJ1kU" target="_blank">
-    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?logo=youtube&logoColor=white" alt="AI Weather Agent Demo">
+    <img src="https://img.youtube.com/vi/1EY0Sf1pzc4/maxresdefault.jpg" width="600" alt="AI Weather Agent Demo">
+    <br>
+    <strong>▶️ Watch Demo on YouTube</strong>
   </a>
 </p>
 
@@ -96,14 +99,23 @@ python3 app.py
 - Twilio Account (for WhatsApp/SMS)
 
 ### Create .env file for all your keys with this template:
+
 OPENAI_API_KEY=your_openai_api_key
+
 WEATHER_API_KEY=your_openweather_api_key
+
 TWILIO_SID=your_twilio_account_sid
+
 TWILIO_AUTH=your_twilio_auth_token
+
 TWILIO_FROM=whatsapp:your_twilio_phone_number
+
 TWILIO_TO=whatsapp:recipient_whatsapp_number
+
 EMAIL_USER=your_email@gmail.com
+
 EMAIL_PASS=your_app_password
+
 EMAIL_TO=recipient_email@example.com
 
 
