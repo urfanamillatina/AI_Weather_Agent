@@ -19,16 +19,20 @@
   </a>
 </p>
 
+<p align="center">
+<h3 align = "center"> Notification Outputs
+</h3>
+</p>
 
 <p align="center">
   <img src="./Assets/Email_notif.png" width="800"/><br/>
-  <em>Output: Email Notification </em>
+  <em>Email Notification </em>
 </p>
 
 
 <p align="center">
   <img src="./Assets/Twilio.jpg" width="300"/><br/>
-  <em>Output: Whatsapp Notification via Twilio </em>
+  <em>Whatsapp Notification via Twilio </em>
 </p>
 
 ## 🌦️ AI Weather Agent
